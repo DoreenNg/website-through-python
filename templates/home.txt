@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome!</title>
+<style>
+    body {
+        width: 70em;
+        margin: 0 auto;
+        font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+
+<h1>Welcome to the server's homepage</h1>
+
+<p><a href="https://www.sutd.edu.sg/">Click here</a> to find out more about my school, Singapore University of Technology and Design.</p>
+
+<img src="https://blog.vantagecircle.com/content/images/size/w540h360/2019/09/welcome.png" alt="Welcome image" style="width:540px;height:360px;">
+
+</body>
+</html>
